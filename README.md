@@ -3,7 +3,10 @@
 ## Project Description
 I will use a dataset of beauty reviews to observe which products had the most reviews and most five star reviews.  Additionally, I will use Tableau to visualize the product data.
 
-### Tasks
+## Tasks
+1. Imported the lastest version of Spark into Google Colab.
+2. Created a Spark sessiion.
+3. Imported beauty dataset for analysis.
 
 ## Resources
 
